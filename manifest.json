@@ -1,0 +1,15 @@
+{
+  "channels": {
+    "stable": {
+      "companion": {
+        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.0/rru-companion-0.2.0.zip",
+        "sha384": "401349a2b1cd43d076e57b8b888fd4aab5c1e46dd3b1568772133e759a6ba0bb6052f46706a1afec770c942665d6aaff"
+      },
+      "theme": {
+        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.0/rru-kit-0.2.0.zip",
+        "sha384": "7b2292466995c128b2331171b0651c1abcd17b15a6bb49692a924e7953e072cbeb4d627a9dbb61cd74191329c7ea0928"
+      },
+      "version": "0.2.0"
+    }
+  }
+}
