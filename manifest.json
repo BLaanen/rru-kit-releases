@@ -2,14 +2,14 @@
   "channels": {
     "canary": {
       "companion": {
-        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.6/rru-companion-0.2.6.zip",
-        "sha384": "8b3032040f764a75436e6b435dc3257a4a23225c193212d4a1989c79a678d94a557ed5a37a7637f552744741ad00947c"
+        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.8/rru-companion-0.2.8.zip",
+        "sha384": "23556d1356057d07475ea51ed5ddb6aebeca6d557f391314e811046c27b3107d150fcbe52ca5fc296cbb88c1d112b309"
       },
       "theme": {
-        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.6/rru-kit-0.2.6.zip",
-        "sha384": "39b166abacb081f3209bf5fd7bc4d8e6af5a1b85be7c866afa08ae7fcf28123f16b8df149c10344c53c956051f2fa5b6"
+        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.8/rru-kit-0.2.8.zip",
+        "sha384": "ffdd425a2ba4307b66c1eb534288f09bbbd3093a7f9cf58b43c8d0f9d1af40d978c18911848c4d02a737f4f3b02df180"
       },
-      "version": "0.2.6"
+      "version": "0.2.8"
     },
     "stable": {
       "companion": {
