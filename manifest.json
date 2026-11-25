@@ -13,14 +13,14 @@
     },
     "stable": {
       "companion": {
-        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.12/rru-companion-0.2.12.zip",
-        "sha384": "660cc26485e8b18925b328576393c6d74d2b83f8d1849686342c83d15b8b480fcf2608bdfc043b2040d5b7239248648c"
+        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.13/rru-companion-0.2.13.zip",
+        "sha384": "0e2dc9f7cb45af65d57f4338a440b0b98ef0604c9986a891675948d40908dde539be544a846d7dd2c34db6a519c42412"
       },
       "theme": {
-        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.12/rru-kit-0.2.12.zip",
-        "sha384": "d4aef661a1bb9b425c664043848bc07bbf6c5c55166252430dedb9ca4d8ca54bcf50891ad368d750a1b73dd5b6128a75"
+        "package": "https://github.com/BLaanen/rru-kit-releases/releases/download/v0.2.13/rru-kit-0.2.13.zip",
+        "sha384": "61886e54c93bf1273350d1e320280e4049e04eb7161a63affcaa1ce10b593bf789f61e4c89945b3eb3bdbb414c16f18d"
       },
-      "version": "0.2.12"
+      "version": "0.2.13"
     }
   }
 }
